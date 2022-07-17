@@ -1,0 +1,72 @@
+* [[人口变化]]     精读2
+** *acquire*作动词，这里指「学到，获得」知识技能 (to gain knowledge or learn a skill)；「学习技能」acquire skills 「获得良好的教育」 acquire a good education
+*** 在财经领域，还可表示「收购」。名词为acquisition
+** *shed* [ʃed] 作动词，指「摆脱，去掉」
+*** 「减肥」就可以叫做：shed pounds
+*** 「裁员」也可以说：shed staff
+** *frailty* ['freɪltɪ] 为可数名词，指「弱点，脆弱」(something bad or weak in your character)
+*** strengths and frailties 便指*「优缺点」*=advantages and disadvantages 利与弊 =merits and demerits 优点与缺点 =strengths and weaknesses 优点与缺点 =pros and cons 利与弊 #同义词
+*** *frail* 为形容词，指*「瘦弱的；虚弱的」*(physically weak and thin)，用来修饰人，***尤指老年人***。比如：the frail elderly 虚弱的老人。
+:PROPERTIES:
+:id: 62d37a2c-9019-4380-8c34-4e2857f1024b
+:END:
+*** 用来修饰物，表示*「易损的；易碎的」*，相当于*fragile*，比如：the frail stems of the flowers 柔弱的花茎 a frail public health system 脆弱的公共卫生系统
+** *owing to sth* 指「由于，因为」，=  because of sth / due to sth #同义词
+** *spell*作名词，表示持续的*「一段时间」* #熟词僻义
+*** Until they find new jobs, they could face long spells of unemployment.
+*** 作名词，还有*「吸引力，魅力」*的意思，短语cast / put a spell on sb 指「对某人施魔法」
+*** spell  作*动词*，不仅可指「拼写」，还可表示「意味着，*招致*」，后面一般跟不好的结果。
+**** spell trouble / disaster 表示「招致麻烦 / 带来灾难」
+*** *spell out sth* 除了指「拼写」，还可表示「解释明白；讲清楚」
+**** we have to spell everything out for you.
+** *with sth* 在作原因状语，引出原因。
+*** With fewer children relative to the adult population 由于相对于成年人口，儿童数量较少
+** *relative to sth* 是一个介词短语，指「相对于，与...相比」
+*** House prices are too high relative to earnings. 相对收入而言房价现在太高了。
+** *retiree* 由retire和ee构成，指「退休人士」=pensioners=old people #同义词
+** *able-bodied* 指「体格健全的，强壮的」
+** *play out* 是一个动词短语，指「逐渐发生，使展开」
+** *be to one’s advantage* ，指「对…有利」
+** *sth helps explain why* ... ，指「某事物解释了为什么...」，前一句话是原因，后面这句话是果。 #英语写作***
+*** Most mutts are harmless enough—Chile is free of rabies, which helps explain why they are tolerated. 大部分流浪狗对人无害—智利没有狂犬病。这也就是流浪犬被容忍的原因。
+** *prospect* 为名词，指「前景，很可能发生的事情」，其后常用介词短语of sth 或者that引导的同位语从句，说明什么事。
+*** the prospect of a Spanish invasion 便指「西班牙入侵这一前景」
+*** *raise* 作动词，指「引起，导致，使...出现」(to cause to exist)。
+**** raise the prospect of sth / that... 即「导致可能出现...事，导致可能面临...前景」
+** *invade*  [ɪnˈveɪd] 为动词，指「武装入侵」。
+*** invade 还可表示「侵扰某事」。比如：invade one's privacy 便指「侵犯某人的隐私」
+** *go bonkers* 指「发疯，崩溃」
+*** drive sb bonkers表示「使某人发疯」
+** *disgorge* [dɪs'gɔːdʒ] 为动词，表示「大量涌出」
+** *dominate* 这个小词儿用法很丰富，不仅可以指政治上的*主宰*，还可以指「主宰」新闻，「主宰」某个行业，「主宰」某个排行榜。
+*** sth dominates the headlines 指「某事占据头条」，表示某事是人们关注的焦点。
+**** 在社交媒体上刷屏了，写作：dominate the social media.
+*** dominate the box office 指「高居票房之首」 Homegrown movie 'sisiter' dominates box office by shining rare light on male preference in Chinese families.
+*** a / the male-dominated industry ，表示「男性主导的行业」， 是男女平等话题的高频词
+** *the sheer weight / size* 强调「某物之重/之大」
+*** China’s sheer size, along with its roles as an engine of global economic growth and a dominant player in commodity markets, means that a hit to China will have significant ramifications all over the world.中国的体量，加上它作为全球经济增长引擎的角色，及其在大宗商品市场的主宰地位，都意味着对中国的打击将明显波及整个世界。
+** *justification* [ˌdʒʌstɪfɪˈkeɪʃən] 为不可数名词，指「正当的理由，可接受的理由」
+*** with some justification 有一定的合理性
+** *justify*  [ˈdʒʌstɪfaɪ] 为动词，有两个意思：
+*** ①表示「是…的正当理由」
+**** A justifies B / B is justified by A 就表示「A是B的正当理由」。比如：Nothing justifies murder. 什么都不能成为杀人的正当理由。
+*** ②表示「证明...有道理、合理」，尤其是用在别人认为不合理的事上
+**** Democrats insisted that the emergency spending was justified by the dual crises of pandemic and economic downturn. 民主党人坚持认为，新冠疫情和经济下滑的双重危机证明应急开支是合理的。
+** *grab* 本义是「抓住，攫取」，力量较大，引申为「霸占，强夺」
+*** grab territory 表示「抢占领土」
+** *swell* 本来是「膨胀，肿胀」的意思。用在数字上，指「增加，增大」
+*** swelling, young populations    两个并列的前置定语，修饰populations ，指「不断膨胀的年轻人口」
+*** *the swelling ranks of sb* 可用来表示「不断增⻓的...，越来越多的...」= more and more ... #同义词
+**** 「...样的人越来越多」，我们还可以说：The ranks of sb swelled.
+** *clout* [klaʊt] 指「力量，权势，影响力」
+*** Now, the authorities are taking a closer look at how their size and clout are affecting competition and the business landscape. 现在，政府正密切关注其规模和影响力在如何影响市场竞争以及商业前景。
+** *be a matter of sth* 指「是…的问题，是…的事」。
+*** 比如：be a matter of time 是时间早晚的事，是时间的问题。
+** *fling sth at sth* 指「向…扔…」，比如：Those boys have been flinging stones at passing cars.那些孩子们一直在向过往车辆扔石块。
+*** fling bodies at the enemy 指把人扔向敌人，意在说明过去战争基本全靠肉搏，因而年轻人的人口数量在战争中至关重要。
+** *natal* 指「出生的」，比如：her natal home 她出生的家庭。
+*** 前缀pro-指「赞成，支持」，pro-natalism指「鼓励生育」
+** *put* 这里不是指「放」，而是指「说，表达」 #熟词僻义
+*** *as sb put it* 是一个as引导的方式状语从句，指「正如某人所说的，像某人所说的」
+** *reproducing* 复制，生育，繁殖
+**
