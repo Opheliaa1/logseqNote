@@ -1,0 +1,97 @@
+* [[同理心]]    精读1
+** *sentiment* 指基于情感的「观点，看法；情绪」
+*** 「消费者情绪」就可以叫作：consumer sentiment。
+the spread of nationalist sentiments 「民族主义情绪的传播」
+*** ~sentimental ~[ˌsentɪ'mentəl] 为形容词，指「多愁善感的，感伤的」
+** *grumpy* 和我们讲过的*grumble*是同根词，指「爱发牢骚的，脾气差的」
+** *reason with sb* 指「和某人讲道理，规劝」 #熟词僻义
+*** reason 作不可数名词，可表示「理性，理智」
+*** 还可作动词，指「推理，推论，推断」
+** *argue for sth* 指「支持...」。而*argue against sth* 指「反对...」
+:PROPERTIES:
+:id: 62e64517-67f4-4bea-ac3b-41f28bd12804
+:END:
+** *set aside sth* 是一个词组，把...放到一边，指「暂时不考虑」
+*** set aside 还可表示「留出，拨出」时间、金钱等等。
+**** 比如：我计划每天留出点时间来进行锻炼。I plan to set aside some time each day for exercise.
+** *in favour of sth* 这里指「选择...，为了获得...」。
+*** 比如：He abandoned teaching in favour of a career as a musician. 他弃教从事音乐。
+** *set aside A in favour of B* 指「把A搁置，选择B」
+*** 双方都同意搁置差异，谋求合作。Both sides agreed to set aside their differences in favour of cooperation.
+** *eschew* 是「避开，回避」的意思，*eschew A in favour of B* 便表示「避开A，而选择B」
+*** 联系热点话题「考公」造个句：A large and growing proportion of fresh graduates eschew private-sector jobs in favour of employment in the public sector.
+** 「处在一个…的时代」
+*** in an age of sth
+*** in an era of sth
+** *partisan* [ˌpɑːtɪˈzæn] 为形容词，指「党派的，有党派色彩的」，往往带有贬义
+*** 文中partisan divides 便指「党派的纷争」
+** *divide* 为可数名词，表示「差异，分歧，隔阂」
+*** 比如：the cultural / political / racial divide 文化 / 政治 / 种族差异
+*** 也可作动词，be divided 表示「有分歧」
+*** *Opinion is divided on sth.* 也是一个地道句型。我们可以将其可以放在文章开头，===引出论述的话题===。 #英语写作**
+** *assert* [əˈsɜːt] 作动词，表示「坚称；断言」
+*** assert oneself 表示「坚持自己的主张，表现坚定 」
+** *if only* 表示「只要」，不是「如果只有」的意思。 #熟词僻义
+*** In the 19th century, British textile makers salivated at the thought of the money to be made if only the empire's representatives could persuade every Chinese to lengthen his shirttail by a foot.19世纪时，英国的纺织业厂商们盘算，只要大清帝国的官吏们能说服每个中国人把他的衣裾放长一英尺，他们就能够赚多少钱，每念及此，他们就无不垂涎欲滴。
+** *wound* 为名词，指「伤口，创伤」。 #熟词僻义
+*** wound 还可作动词，指「伤害」某人。
+** *empathise* [ˈempəθaɪz] 为动词，表示「共情，有同感，产生共鸣」(to understand another person's feelings and experiences, especially because you have been in a similar situation)    empathise一般都是指基于经历过相似的情况而产生的共情。
+*** 介词搭配为：empathise with sb / sth。
+**** 比如：It's very easy to empathize with the characters in her books.读者很容易和她书中的人物产生共鸣。
+*** empathy [ˈem.pə.θi] 为不可数名词，表示「共情，共鸣，同情」
+** *as opposed to sth* 指「与...相反，而非...」 #英语写作***
+*** 以后想表达rather than sth，instead of sth，就可以考虑考虑能不能用as opposed to sth替换
+*** 我更愿意5月份去，而不是9月份。
+I'd prefer to go in May, rather than September.
+I'd prefer to go in May, as opposed to September.
+** *in sb's shoes / in the shoes of sb* 是一个习语，穿某人的鞋子，表示「换位思考，设身处地」
+** *tree-hugger* 为名词，用于指那些抱住树木，以阻止林木被砍伐的人，指「环境保护者，环保主义分子」。注意这个词通常含=贬义=。
+*** 比较中性的说法是：an environmentalist，a green / environmental activist / campaigner
+** *liberal* [ˈlɪbərəl] 为形容词，指「开明的，自由的」，作名词，指「自由派人士」
+*** liberal [ˈlɪbərəl] 作名词，指「自由主义者」
+*** conservative，作形容词，指「保守的」，作名词，指「保守派」
+** *warn (sb) of sth* 表示「警告，告诫，提醒」
+** *deficit* [ˈdefɪsɪt]  为名词，表示「亏损，赤字，不足」。
+*** 比如：a budget deficit 预算赤字 a trade deficit 贸易逆差
+*** 这里 an empathy "deficit" 指「同理心的赤字」，也就是指「同理心的缺乏」
+** *valedictory speech* 指「告别演说，卸任演讲」，也可写作farewell address / speech
+*** 「就职演说」叫作：inaugural address / speech
+** *address* 作名词，指「演说，演讲」 #熟词僻义
+*** 作动词，可表示「演讲」。比如：to address a meeting 在会议上发表演讲
+*** address sb 指「 向…说话」
+** *heed* [hiːd] 作动词，表示「注意」别人的建议或警告
+*** heed the advice of sb 指「听从某人的建议」
+*** 作名词，短语pay heed (to sth), take heed (of sth) 表示「注意，留心，关注某事」
+**** 可以替换我们熟悉的pay attention to sth
+** *point of view* 这个短语有两个意思：
+*** ① 表示「视角，角度」：From an economic point of view, the new development will  benefit the town greatly.从经济的角度来看，新的开发项目会给全镇带来极大好处。
+*** ② 表示「观点，看法，意见」：I respect your point of view, but I'm not sure I agree with you. 我尊重你的观点，但我还是不敢苟同。
+** *a piece of wisdom* 指「一条箴言，一句智慧的话」
+** *high-minded* 是为形容词，表示「高尚的，高洁的」
+*** 反义词为low-minded ，指「思想庸俗的，低级的」
+** *provocative* [prəˈvɒkətɪv] 为形容词，表示「挑衅的，煽动的，引起争论的」
+*** The most provocative chapter is about widowhood and dating after losing a spouse. 最易引起争论的一章是关于失去另一半后的寡居生活和约会的经历。
+*** 文中provocative argument 指「挑战性的观点」
+** *binge on sth* [bɪndʒ] 本来是指「大吃大喝；狂欢」
+*** 比如：Whenever she’s depressed, she binges on chocolates. 每当情绪低落时她就狂吃巧克力。
+*** 文中 binge on a sentiment 指「不节制地使用情感」
+*** binge on sth 常常用来表示消费者想要「疯狂消费」
+*** 「疯狂刷剧」可以用*binge-watch*来表达。比如：I binge-watched Reset last night.
+*** binge-drink 则指「大喝」，binge-eat 指「大吃」
+** *sugary* 为形容词，表示「含糖的，甜的」。sugary soda 指「含糖汽水」
+*** 还可以指「过于甜蜜的，甜得腻人的」，通常含贬义。
+**** 比如：The programme seemed false and sugary, and the characters smug. 这个节目看起来矫揉造作，而其中的人物还自我感觉良好。
+** *tempt* 为动词，指「引诱，诱惑」，惯用搭配为tempt sb into doing sth, tempt sb to do sth
+*** be tempted to do sth 还可示「忍不住想做某事」
+**** 比如你逛街的时候路过一条非常漂亮的裙子，忍不住想买，就可以说：I’m tempted to buy that dress.我忍不住想买那条裙子。
+**** Fearful that remote workers will be tempted to slack, they have monitored their teams like an anxious parent who has taken a toddler to a swimming pool. 由于担心远程工作者可能偷懒，他们一直在监控自己的团队，就像焦虑的家⻓带着蹒跚学步的孩子去游泳池一样。
+*** tempting 为形容词，指「诱人的，吸引人的」
+比如：That pie looks very tempting. 那个馅饼看起来很诱人。
+** *in sb's / sth's 'stead* 指「代替某人或某物」
+** *prescribe* 为动词，本来是指「开处方，开药」，喻指「给出解决方案」
+*** 还可以表示「规定，指定」，比如：Police regulations prescribe that an officer's number must be clearly visible.  警政制度规定，警察的番号必须醒目。
+*** prescription [prɪˈskrɪpʃən]  为名词形式，指「处方，药方」
+**** 除此之外，prescription还可喻指*「解决办法，对策」*，惯用搭配为the prescription for sth。比如：The party’s main prescription for educational problems was to give schools more money.该政党解决教育问题的主要方法是给学校提供更多资金。
+**** offer sound prescriptions 提供合理的解决办法
+**** 近义词还有the cure for sth, the remedy to sth，也可表示*「...的解决方法」*，可以替换小学生词汇the solution to sth
+***
